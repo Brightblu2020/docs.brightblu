@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: home
+title: API
+layout: home
 ---
 
 Getting Started:
