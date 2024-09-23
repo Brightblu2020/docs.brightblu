@@ -1,6 +1,6 @@
 ---
 title: API
-layout: home
+layout: default
 ---
 
 Getting Started 2:
