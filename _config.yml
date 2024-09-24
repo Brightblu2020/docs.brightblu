@@ -3,6 +3,10 @@ description: Firmware/API documentation for BRIGHTBLU Jolt Series Chargers
 theme: just-the-docs
 
 url: https://Brightblu2020.github.io/docs
+logo: "/assets/images/just-the-docs.gif"
+favicon_ico: "/assets/images/favicon.ico"
+
+
 
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
