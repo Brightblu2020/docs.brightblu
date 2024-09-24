@@ -1,10 +1,9 @@
 ---
-title: ChargeBox Controller
+title: Communication Controller
 layout: default
-nav_order: 2
-parent: Jolt Home
+nav_order: 1
+parent: Jolt Business
 grand_parent: Firmware
-
 ---
 
 
