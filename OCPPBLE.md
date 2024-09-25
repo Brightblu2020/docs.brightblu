@@ -1,9 +1,13 @@
 ---
-title: OCPP BLE
+title: BLE API
 layout: home
 nav_order: 3
+parent : Introduction
 ---
 
-BRIGHTBLU OCPP BLE DOCUMENTATION
+BRIGHTBLU BLE API DOCUMENTATION
 
-here youll find the information on how to integrate BLE with our chargers on your app while using the OCPP protocol
+BRIGHTBLU's API powers its smart access BLE control. Behind this API is a software layer optimizing control of charging stations to access them even without internet connectivity.
+
+
+Coming Soon!
