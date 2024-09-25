@@ -14,7 +14,8 @@ This page acts as a one stop solution for BRIGHTBLU firmware updates and develop
 
 
 
-BRIGHTBLU's Knowledge Base
+* BRIGHTBLU's Knowledge Base:
+
 The Knowledge Base provides comprehensive vocabulary, detailed descriptions, and step-by-step tutorials. It is a valuable resource for customers who want to integrate BRIGHTBLU into their software systems. Keys required inorder to access the API can be obtained by contacting BRIGHTBLU and test the implementation.
 
 
