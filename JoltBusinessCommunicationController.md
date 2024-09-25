@@ -59,3 +59,6 @@ Current Production release: 4.0.026
         * disconnectTimeoutCount – uint8_t how many timeouts before disconnect
     - Websocket Ping/Pong will be made configurable in the next iteration via GetConfiguration
     - SD card detection and Failure update as StatusNotification with the ERROR Code "SDCardFailure". If this is detected, OTA update will be temporarily disabled. If subsequent physical restarts/ Hard Resets do not fix this issue, a physical inspection is necessary and a format of the card might be required.
+
+
+    ** Alpha Stage. Will contain bugs which are being actively fixed.
