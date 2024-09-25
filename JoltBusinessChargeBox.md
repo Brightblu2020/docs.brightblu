@@ -9,7 +9,7 @@ grand_parent: Firmware
 
 
 
-Firmware Version: 3.0.025
+Firmware Version:
 
 Release Notes:
 - Added BLE support for Jolt Installer Application
