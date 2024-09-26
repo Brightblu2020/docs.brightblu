@@ -10,7 +10,7 @@ JOLT Business
 
 Communication Controller:
 
-The communication controller(CC) handles all the external requests to and from the device. It handles everything with regards to network , cloud and Application communication. The CC currently supports 3G/4G SIM Connectivity, LAN and WiFi. The CC also runs BRIGHTBLU OCPP 1.6J, Handles all the communication with the ChargeBox Controller. In order to configure the charger please use our Installer application : BRIGHTBLU JOLT INSTALL PARTNER
+The communication controller(CC) handles all the external requests to and from the device. It handles everything with regards to network , cloud and Application communication. The CC currently supports 3G/4G SIM Connectivity, LAN and WiFi. The CC also runs BRIGHTBLU OCPP 1.6J, Handles all the communication with the ChargeBox Controller. In order to configure the charger please use our Installer application : JOLT INSTALL PARTNER
 
 Find the release notes for the latest version and all previous versions.
 
