@@ -12,7 +12,14 @@ This not only requires the right talent but also the right background. We have a
 
 This page acts as a one stop solution for BRIGHTBLU firmware updates and developments, API documentation and Firmware Release notes.
 
-
+MEET JOLT: YOUR INTELLIGENT EV CHARGER
+* Versatile Charges every electric 4-wheeler in the market: from your personal EV at home to EV fleets at charging stations.
+* Reliable 99% uptime backed by fantastic customer support (24-48 hour response time guaranteed).
+* Durable IP65-rated AC Charger, guaranteeing the highest possible dust protection and water resistance.
+* Painless Easy to install. Easy to use. And very easy to maintain.
+* Efficient Steady, cost-effective supply with Dynamic Power Management. No fuse tripping. No connection upgrades. Supports multiple chargers.
+* Sleek hardware, intelligent software, and a nifty app that lets you control the charger from anywhere, anytime.
+* Crafted in India Fully engineered at our HQ in Pune, guaranteeing stringent quality control at every stage and peak performance.
 
 * BRIGHTBLU's Knowledge Base:
 

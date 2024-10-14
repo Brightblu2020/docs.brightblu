@@ -24,7 +24,17 @@ Note:
 Feel free to contact us at in.support@brightblu.com for any queries or support requirement.
 
 
-Current Production release: 4.0.026
+Current Production release: 4.0.030
+
+* Firmware Version: 4.0.030
+
+    Release Notes:
+    - Added Ability to Switch between networks. Set the WiFi User and pass in Get Configuration and enable WiFiConnect to True. This will enable fallback connection incase the main internet is lost/disconnected. By default the first configured mode of connection is always preffered(In case of restart, it will not switch to fallback).
+    - Improved disconnection check and moved Websocket connection to a separate thread.
+    - Removed saving all meterValues when offline. Now only Start/Stop Transactions will be stored along with StatusNotifications to ensure optimal use of limited space.
+    - Changed StopTransaction Reason to Other when stopped due to faults (For available reasons itll show the correct value for eg: EmergencyStop , PowerLoss).
+
+
 
 * Firmware Version: 4.0.026
 
