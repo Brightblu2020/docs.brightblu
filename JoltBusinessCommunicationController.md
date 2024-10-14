@@ -32,7 +32,7 @@ Current Production release: 4.0.030
     - Improved disconnection check and moved Websocket connection to a separate thread.
     - Removed saving all meterValues when offline. Now only Start/Stop Transactions will be stored along with StatusNotifications to ensure optimal use of limited space.
     - Changed StopTransaction Reason to Other when stopped due to faults (For available reasons itll show the correct value for eg: EmergencyStop , PowerLoss).
-    - Fixed OnPowerLossRestart ending a session in BRIGHTBLU power backup enabled devices.
+    - Fixed OnPowerLossRestart ending a session in BRIGHTBLU POWER BACKUP enabled devices.
 
 
 
