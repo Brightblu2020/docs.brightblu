@@ -17,4 +17,3 @@ Key Features:
 7. Design,Developed,Engineered & Made in India
 8. Over/Under voltage protection (+/- 15%)
 9. Communication – Mode 3 (IEC-61851)
-10. 24-48 hours response time*

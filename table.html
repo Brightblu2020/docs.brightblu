@@ -1,0 +1,79 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Downloads</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<style>
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+.download-container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+}
+
+.download-list {
+    margin-top: 20px;
+}
+
+.download-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #007BFF;
+    background-color: #e7f3ff;
+    border: 2px solid #007BFF;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    transition: all 0.3s ease;
+}
+
+.download-link:hover {
+    background-color: #007BFF;
+    color: white;
+    transform: scale(1.05);
+}
+
+.download-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+    </style>
+<body>
+    <div class="download-container">
+        <h2>Download Our Documents</h2>
+        <p>Get the manuals and guides you need for your EV Charger:</p>
+        <div class="download-list">
+            <a href="assets/user-manual.pdf" class="download-link" download>
+                <img src="assets/user-manual-icon.png" alt="User Manual Icon" class="download-icon">
+                User Manual
+            </a>
+            <a href="assets/installation-guide.pdf" class="download-link" download>
+                <img src="assets/installation-icon.png" alt="Installation Guide Icon" class="download-icon">
+                Installation Guide
+            </a>
+            <a href="assets/faq.pdf" class="download-link" download>
+                <img src="assets/faq-icon.png" alt="FAQ Icon" class="download-icon">
+                FAQ
+            </a>
+        </div>
+    </div>
+</body>
+</html>

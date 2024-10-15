@@ -10,18 +10,25 @@ JOLT Business
 
 Communication Controller:
 
-The communication controller(CC) handles all the external requests to and from the device. It handles everything with regards to network , cloud and Application communication. The CC currently supports 3G/4G SIM Connectivity, LAN and WiFi. The CC also runs BRIGHTBLU OCPP 1.6J, Handles all the communication with the ChargeBox Controller. In order to configure the charger please use our Installer application : JOLT INSTALL PARTNER
+The communication controller(CC) handles all the external requests to and from the device. It handles everything with regards to network , cloud and Application communication. The CC currently supports 3G/4G SIM Connectivity, LAN and WiFi. The CC also runs BRIGHTBLU OCPP 1.6J, handles all the communication with the ChargeBox Controller. In order to configure the charger please use our installer application :
+
+<b>JOLT INSTALL PARTNER</b>
+
+<a href="https://play.google.com/store/apps/details?id=com.brightblu.joltCommission&hl=en">Play Store </a>
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.brightblu.joltCommission&hl=en">App Store  </a>
+
 
 Find the release notes for the latest version and all previous versions.
 
-If you wish to Update your charger physically, Please see the Firmware Update Instruction
+If you wish to update your charger physically, Please see the <b>Firmware Update Instruction</b>: <a href="FirmwareFlashCommunicationController.html"> Here </a>
 
 Note:
 * Only v4.0.26 and above support wss. If the device is below this said version, you are requested to update the CC to the latest version to access this support
 * Only v3.0.021/B and above support BLE / Installer Application.
 
 
-Feel free to contact us at in.support@brightblu.com for any queries or support requirement.
+Feel free to contact us at in.support@brightblu.com for any queries or support.
 
 Current Production release: 4.0.030
 
@@ -72,3 +79,10 @@ Current Production release: 4.0.030
 
 
     ** Alpha Stage. Will contain bugs which are being actively fixed.
+
+
+Note: Ensure the correct firmware files are downloaded for your version of charger.
+<b> Please proceed with Extreme Caution</b>.
+If you are confused about your charger version, please contact BRIGHTBLU Support to guide you at in.support@brightblu.com.
+
+## Download the latest firmware files:  <a href="assets/firmware/BBCCfirmwarefiles.zip" class="download-link" download> Here </a>

@@ -3,10 +3,10 @@ title: Firmware Update Instruction
 layout: default
 nav_order: 1
 parent: Communication Controller
-grand_parent: Jolt Business
+grand_parent: Jolt Home
 ---
 
-JOLT Business
+JOLT Home
 
 # BRIGHTBLU Communication Controller Firmware Update Guide
 
@@ -21,13 +21,8 @@ Before you begin, ensure you have the following:
 - Micro-USB cable
 - Computer with Windows operating system
 - ESP Flash Download Tool (version 3.8.5 or later)
-- Firmware files (Download:  <a href="JoltBusinessCommunicationController.html"> Here </a>)
+- Firmware files (Download:  <a href="JoltHomeCommunicationController.html"> Here </a>)
 - PuTTY (for verification)
-
-Note:
-* For Communication Controllers which are <b>Wroom-32</b>: the firmware version for this version will always be v4.x.xxx.
-* For Communication Controllers which are <b>Wrover-IE</b>, the firmware version for these units will always be v5.x.xxx .
-
 
 
 ## Steps to Update Firmware
@@ -57,17 +52,10 @@ Note:
 
     - Click "..." button, navigate to the file, enter the address, then check the box next to the file name.
 
-            For Wroom-32
                 * boot_app0.bin : 0xe000
                 * bootloader_dio_40m.bin : 0x1000
-                * firmwarev4.x.xxx.bin : 0x10000
+                * BBJLv.x.xxx.bin : 0x10000
                 * partitions.bin : 0x8000
-
-            For Wrover-IE
-                * bootloader.bin 0x1000
-                * partitions.bin 0x8000
-                * ota_data_initial.bin 0x11000
-                * firmwarev5.x.xxx.bin 0x20000
 
 2. Set the following configuration:
    - SPI SPEED: 40MHz
