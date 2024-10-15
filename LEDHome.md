@@ -3,14 +3,14 @@ title: LED Status
 layout: default
 nav_order: 2
 parent: ChargeBox Controller
-grand_parent: Jolt Business
+grand_parent: Jolt Home
 ---
 
-JOLT Business
+JOLT Home
 
 LED Indicators:
 
-This page provides all the LED indications in BRIGHTBLU JOLT Business chargers and the probable reasoning and solution to the same.
+This page provides all the LED indications in BRIGHTBLU JOLT Home chargers and the probable reasoning and solution to the same.
 
 In case of any issues please feel free to contact us at in.support@brightblu.com for any queries or support requirement.
 
