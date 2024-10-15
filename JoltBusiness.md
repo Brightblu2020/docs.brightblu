@@ -20,8 +20,8 @@ Key Features:
 6. Surge protection upto 6kV.
 7. Access Options: RFID, App, 3rd Party CMS
 8. OCPP 1.6J
-9. Precision Engineered in India (or Made in India)
-10. 24-48 hours response time*
+9. Design,Developed,Engineered & Made in India
+
 
 
 Notes:
