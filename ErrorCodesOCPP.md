@@ -23,6 +23,8 @@ ERROR CODE LIST:
 | OverCurrentFailure | Charger has detected that the current drawn is greater than max allowed (32A) |
 | HighTemperature | Charger Temperature sensor detects an internal temperature greater than 80°C and has shut down to prevent further damage. |
 | GroundFailure | Neutral - Earth Voltage has exceeded permissible values (Maximum allowed 8V) |
+| DiodeError | Diode Failure detected at Vehicle end |
+| VentError | Ventillation Error Failure detected at Vehicle end |
 | OtherError: | Includes the following sub-errors (vendorErrorCode): |
 | &nbsp;&nbsp;•EmergencyButton | Emergency Button is pressed |
 | &nbsp;&nbsp;•InputFrequencyError | Frequency of Input Supply is not between 50/60 Hz |

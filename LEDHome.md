@@ -225,7 +225,6 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
 </body>
 </html> -->
 
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -255,7 +254,7 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
         }
         /* Blinking animations for Red and Purple LEDs on a 15s cycle */
         .blink-2 {
-            animation: blinkAnimation2 15s infinite;
+            animation: blinkAnimation2 10s infinite;
         }
         @keyframes blinkAnimation2 {
             0%, 100% { opacity: 1; }
@@ -263,7 +262,7 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
             12%, 22%, 32% { opacity: 1; }
         }
         .blink-3 {
-            animation: blinkAnimation3 15s infinite;
+            animation: blinkAnimation3 10s infinite;
         }
         @keyframes blinkAnimation3 {
             0%, 100% { opacity: 1; }
@@ -271,7 +270,7 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
             12%, 22%, 32% { opacity: 1; }
         }
         .blink-4 {
-            animation: blinkAnimation4 15s infinite;
+            animation: blinkAnimation4 10s infinite;
         }
         @keyframes blinkAnimation4 {
             0%, 100% { opacity: 1; }
@@ -287,12 +286,36 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
             12%, 22%, 32%, 42% { opacity: 1; }
         }
         .blink-5 {
-            animation: blinkAnimation5 15s infinite;
+            animation: blinkAnimation5 10s infinite;
         }
         @keyframes blinkAnimation5 {
             0%, 100% { opacity: 1; }
             10%, 20%, 30%, 40%, 50% { opacity: 0; }
             12%, 22%, 32%, 42%, 52% { opacity: 1; }
+        }
+        .blink-6 {
+            animation: blinkAnimation6 10s infinite;
+        }
+        @keyframes blinkAnimation6 {
+            0%, 100% { opacity: 1; }
+            10%, 20%, 30%, 40%, 50%, 60% { opacity: 0; }
+            12%, 22%, 32%, 42%, 52%, 62% { opacity: 1; }
+        }
+        .blink-7 {
+            animation: blinkAnimation7 10s infinite;
+        }
+        @keyframes blinkAnimation7 {
+            0%, 100% { opacity: 1; }
+            10%, 20%, 30%, 40%, 50%, 60%,70% { opacity: 0; }
+            12%, 22%, 32%, 42%, 52%, 62%,72% { opacity: 1; }
+        }
+        .blink-8 {
+            animation: blinkAnimation8 10s infinite;
+        }
+        @keyframes blinkAnimation8 {
+            0%, 100% { opacity: 1; }
+            10%, 20%, 30%, 40%, 50%, 60%,70%,80% { opacity: 0; }
+            12%, 22%, 32%, 42%, 52%, 62%,72%,82% { opacity: 1; }
         }
         /* Green LED is always visible */
         .green-blink {
@@ -345,22 +368,42 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
                 <td>Observe the blinks and match it with the error list below. The blink pattern repeats every 15s</td>
             </tr>
             <tr>
+                <td><div class="led green-blink" style="background-color: red;"></div></td>
+                <td>  Reason: <b>Charger is in Configuring state. Check Communication controller if this error persists for more than 5min</b></td>
+            </tr>
+            <tr>
                 <td><div class="led blink-2" style="background-color: red;"></div></td>
                 <td>LED Blink: <b>2</b> Error Reason: <b>Ground Fault</b></td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td><div class="led blink-3" style="background-color: red;"></div></td>
                 <td>LED Blink: <b>3</b> Error Reason: <b>Emergency Button</b></td>
-            </tr>
+            </tr> -->
             <tr>
                 <td><div class="led blink-4" style="background-color: red;"></div></td>
                <td>LED Blink: <b>4</b> Error Reason: <b>Earth Leakage Error</b></td>
             </tr>
             <tr>
                 <td><div class="led blink-5" style="background-color: red;"></div></td>
-                <td>LED Blink: <b>5</b> Error Reason: <b>Voltage Error</b></td>
+                <td>LED Blink: <b>5</b> Error Reason: <b>Voltage Error (Over/Under Voltage)</b></td>
             </tr>
             <tr>
+                <td><div class="led blink-6" style="background-color: red;"></div></td>
+                <td>LED Blink: <b>6</b> Error Reason: <b>Temperature</b></td>
+            </tr>
+            <tr>
+                <td><div class="led blink-7" style="background-color: red;"></div></td>
+                <td>LED Blink: <b>7</b> Error Reason: <b>Over Current</b></td>
+            </tr>
+            <!-- <tr>
+                <td><div class="led blink-8" style="background-color: red;"></div></td>
+                <td>LED Blink: <b>8</b> Error Reason: <b>Frequency Error</b></td>
+            </tr> -->
+            <!-- <tr>
+                <td><div class="led" style="background-color: red;"></div></td>
+                <td>LED Blink: <b>0</b> Error Reason: <b>Power Supply Error/Power Loss (BRIGHTBLU Battery Backup)</b></td>
+            </tr> -->
+            <!-- <tr>
                 <td><div class="led" style="background-color: Fuchsia;"></div></td>
                 <td>Observe the blinks and match it with the error list below</td>
             </tr>
@@ -371,7 +414,7 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
             <tr>
                 <td><div class="led blink-4purple" style="background-color: Fuchsia;"></div></td>
                 <td>LED Blink: <b>4</b> Error Reason: <b>Disconnected From Server.Attempting to reconnect</b></td>
-            </tr>
+            </tr> -->
         </tbody>
     </table>
 </body>
