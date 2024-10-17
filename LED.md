@@ -2,7 +2,7 @@
 title: LED Status
 layout: default
 nav_order: 2
-parent: ChargeBox Controller
+parent: Charge Controller
 grand_parent: Jolt Business
 ---
 
