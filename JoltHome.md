@@ -24,18 +24,17 @@ Get the manuals and guides you need for your EV Charger:
 
 <div class="download-container">
     <div class="download-item">
-        <a href="assets/manuals/user-manual.pdf" class="download-link" download>
+        <a href="assets/manuals/UserManual.zip" class="download-link" download>
             <img src="assets/images/book_7576757.png" alt="User Manual Icon" class="download-icon">
             User Manual
         </a>
     </div>
     <div class="download-item">
-        <a href="assets/manuals/installation-guide.pdf" class="download-link" download>
+        <a href="assets/manuals/InstallDocs" class="download-link" download>
             <img src="assets/images/info_2068956.png" alt="Installation Guide Icon" class="download-icon">
             Installation Guide
         </a>
     </div>
-
 </div>
 
 <style>
