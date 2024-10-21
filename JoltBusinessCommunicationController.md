@@ -30,8 +30,16 @@ Note:
 
 Feel free to contact us at in.support@brightblu.com for any queries or support.
 
-## Current Production release: 4.0.032
+## Current Production release: 4.0.035
 
+# Firmware Version: 4.0.035
+
+Release Notes:
+
+- Fixed incorrect phase detection
+- Changed how StartTransaction is initiated now. The command to initiate charging is now switched to RTU state instead of preparing.
+- Updated certain internal libraries to the latest versions
+- Updated register values for all measurands
 
 # Firmware Version: 4.0.032
 

@@ -326,6 +326,13 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
             25%, 100% { opacity: 1; }
             50% { opacity: 0.1; }
         }
+        .green-blink1 {
+            animation: greenBlink1 0.5s ease-in-out infinite;
+        }
+        @keyframes greenBlink1 {
+            25%, 100% { opacity: 1; }
+            50% { opacity: 0.1; }
+        }
         .purple-blink {
             animation: purpleBlink 1s ease-in-out infinite;
         }
@@ -344,6 +351,10 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td><div class="led green-blink1" style="background-color: green;"></div></td>
+                <td>Attempting to connect to selected network mode (SIM/LAN/WiFi). A buzzer sound indicates successful connection</td>
+            </tr>
             <tr>
                 <td><div class="led" style="background-color: green;"></div></td>
                 <td>Charger is in Available state</td>
