@@ -34,6 +34,8 @@ Feel free to contact us at in.support@brightblu.com for any queries or support.
 
 # Firmware Version: 4.0.037
 
+Release Date: 4/11/2024
+
 Release Notes:
 
 - Added Ability to now do OTA if SdCardFailure is detected by bypassing SD check.
@@ -42,6 +44,8 @@ Release Notes:
 
 
 # Firmware Version: 4.0.035
+
+Release Date: 6/08/2024
 
 Release Notes:
 
