@@ -30,7 +30,16 @@ Note:
 
 Feel free to contact us at in.support@brightblu.com for any queries or support.
 
-## Current Production release: 4.0.035
+## Current Production release: 4.0.037
+
+# Firmware Version: 4.0.037
+
+Release Notes:
+
+- Added Ability to now do OTA if SdCardFaiure is detected by bypassing SD check.
+- Fixed Long file names not working in internal memory and SD card for Logs.
+- Improved the websocket thread efficiency.
+
 
 # Firmware Version: 4.0.035
 
