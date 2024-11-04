@@ -36,7 +36,7 @@ Feel free to contact us at in.support@brightblu.com for any queries or support.
 
 Release Notes:
 
-- Added Ability to now do OTA if SdCardFaiure is detected by bypassing SD check.
+- Added Ability to now do OTA if SdCardFailure is detected by bypassing SD check.
 - Fixed Long file names not working in internal memory and SD card for Logs.
 - Improved the websocket thread efficiency.
 
