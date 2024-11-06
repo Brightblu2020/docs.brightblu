@@ -38,7 +38,7 @@ Release Date: 4/11/2024
 
 Release Notes:
 
-- Added Ability to now do OTA if SdCardFailure is detected by bypassing SD check.
+- Added Ability to now do OTA if SdCardFailure is detected by bypassing SD check. do note: The Update can fail a couple of times before it works. SD card is always more reliable.
 - Fixed Long file names not working in internal memory and SD card for Logs.
 - Improved the websocket thread efficiency.
 

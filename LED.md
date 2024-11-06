@@ -369,7 +369,7 @@ In case of any issues please feel free to contact us at in.support@brightblu.com
             </tr>
             <tr>
                 <td><div class="led" style="background-color: yellow;"></div></td>
-                <td>Charger has detected that the current drawn is greater than max allowed (32A)</td>
+                <td>Charger is in Ready to Use state and is waiting for the Vehicle to signal it is ready to accept (also if the vehicle is in SuspendedEV state)</td>
             </tr>
             <tr>
                 <td><div class="led" style="background-color: navy;"></div></td>
