@@ -1,29 +1,30 @@
 ---
-title: Jolt Home
+title: Jolt Home Plus
 layout: default
-nav_order: 3
+nav_order: 2
 parent: Firmware
 ---
 
-JOLT Home
+JOLT Home Plus
 
-With JOLT home, you can charge your EV right in your own garage, or basement whenever you need. Start or Stop charging from the comfort of your couch using the JOLT Control App. You can also schedule charging during off-peak hours, to save money on your electricity bills. With its minimalistic design, JOLT Home is sleek, elegant and will fit right into your décor aesthetics.
+With JOLT home Plus, you can charge your EV right in your own garage, or basement whenever you need. Start or Stop charging from the comfort of your couch using the JOLT Control App. You can also schedule charging during off-peak hours, to save money on your electricity bills. With its minimalistic design, JOLT Home is sleek, elegant and will fit right into your décor aesthetics.
 
-Note: JOLT Home DOES NOT support OCPP. The charger can be controlled via BLE/Internet(WiFi) using our Jolt Control Application. For OCPP support please refer to our Jolt Home Plus or Jolt Business models.
+Jolt Home Plus now supports OCPP1.6J which can be configured to any OCPP1.6J compliant server.
+
+The charger supports both ws/wss with basic authentication. Please use the Jolt Install Partner to configure the charger.
 
 Key Features:
-
 1. Easy to Install
 2. Surge protection upto 6kV
 3. IP65 certified
 4. Energy Management Features
 5. User Authentication – RFID/Mobile App
-6. Connectivity Options – WiFi & BLE
+6. Connectivity Options – WiFi , BLE , SIM
 7. Design,Developed,Engineered & Made in India
 8. Over/Under voltage protection (+/- 15%)
 9. Communication – Mode 3 (IEC-61851)
-
-
+10. OCPP1.6J Support
+11. Charge between 3.3 – 22 kW
 
 ## JOLT INSTALL PARTNER
 

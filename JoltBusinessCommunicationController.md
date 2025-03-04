@@ -16,7 +16,7 @@ The communication controller(CC) handles all the external requests to and from t
 
 <a href="https://play.google.com/store/apps/details?id=com.brightblu.joltCommission&hl=en">Play Store </a>
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.brightblu.joltCommission&hl=en">App Store  </a>
+<a href="https://apps.apple.com/us/app/jolt-install-partner/id6553999518">App Store  </a>
 
 
 Find the release notes for the latest version and all previous versions.
@@ -30,7 +30,18 @@ Note:
 
 Feel free to contact us at in.support@brightblu.com for any queries or support.
 
-## Current Production release: 4.0.038
+## Current Production release: 4.0.043
+
+# Firmware Version: 4.0.043
+
+Release Date: 4/1/2025
+
+Release Notes:
+
+- Added Support for Reservation
+- Added Support for BLE OTA without SD Card
+- Updated Libraries
+
 
 # Firmware Version: 4.0.038
 

@@ -18,9 +18,11 @@ Key Features:
 4. 99% Uptime
 5. IP65 certified
 6. Surge protection upto 6kV.
-7. Access Options: RFID, App, 3rd Party CMS
-8. OCPP 1.6J
-9. Design,Developed,Engineered & Made in India
+7. Connectivity Options – WiFi , BLE , SIM & LAN (Optional)
+8. Access Options: RFID, App, 3rd Party CMS
+9. OCPP 1.6J
+10. Design,Developed,Engineered & Made in India
+
 
 
 
@@ -30,6 +32,18 @@ Notes:
 
 ** Power-Backup is only for the low-voltage system inorder to gracefully shut down the system in case of power failure and alert the CMS(Central Monitoring System) of the same. A typical BRIGHTBLU power-back system can hold enough charge for 200s after which all systems are shut down
 
+
+
+
+## JOLT INSTALL PARTNER
+
+To configure your charger quickly please download our Install Partner Application:
+
+<a href="https://play.google.com/store/apps/details?id=com.brightblu.joltCommission&hl=en">Play Store </a>
+<br>
+<a href="https://apps.apple.com/us/app/jolt-install-partner/id6553999518">App Store  </a>
+
+Note: To get the OTP, Please email in.support@brightblu.com after filing out all the details. A customer support representative will share the OTP access. This access is valid only for 24hrs after which it will be invalid.
 
 ## Download Our Documents
 
