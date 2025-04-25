@@ -82,6 +82,8 @@ Release Notes:
     - Fixed update failure handling
     - Resolved file transfer issues
     - Improved error reporting
+    - Fixed OCPP Start/Stop Transaction not closing previous session properly.
+    - Fixed OFFLINE authentication failure after repeated tapping of RFID.
   * System Stability
     - Fixed memory leaks
     - Resolved task scheduling conflicts
