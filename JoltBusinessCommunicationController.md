@@ -30,7 +30,68 @@ Note:
 
 Feel free to contact us at in.support@brightblu.com for any queries or support.
 
-## Current Production release: 4.0.043
+## Current Production release: 4.0.046
+
+# Firmware Version: 4.0.046
+
+Release Date: 25/4/2025
+
+Release Notes:
+
+- Enhanced Firmware Update System
+  * Improved FTP/HTTPS firmware update capabilities
+  * Added support for multiple file updates
+  * Implemented retry mechanism for failed updates
+  * Added progress tracking and status reporting
+- BLE Improvements
+  * Enhanced BLE communication stability
+  * Added support for larger data transfers (up to 480 bytes per fragment)
+  * Implemented new authentication mechanisms
+  * Added temperature monitoring capabilities
+- WebSocket Enhancements
+  * Improved connection handling and reconnection logic
+  * Added connection attempt tracking
+  * Enhanced disconnection detection and handling
+- System Stability
+  * Added temperature monitoring system
+  * Improved memory management
+  * Enhanced error handling and recovery mechanisms
+- Technical Improvements
+  * Memory Management
+    - Optimized memory usage for JSON operations
+    - Improved heap management
+    - Added memory allocation checks
+  * File System
+    - Added support for LittleFS
+    - Improved file handling operations
+    - Enhanced logging capabilities
+  * Network Connectivity
+    - Enhanced WiFi connection stability
+    - Improved SoftAP functionality
+    - Added diagnostic scanning for log files
+  * Task Management
+    - Optimized task priorities
+    - Improved task scheduling
+    - Enhanced inter-task communication
+- Bug Fixes
+  * BLE Connectivity
+    - Fixed BLE disconnection issues
+    - Resolved authentication problems
+    - Fixed data transfer stability issues
+  * Firmware Updates
+    - Fixed update failure handling
+    - Resolved file transfer issues
+    - Improved error reporting
+  * System Stability
+    - Fixed memory leaks
+    - Resolved task scheduling conflicts
+    - Improved error recovery
+- Known Issues
+  * Some BLE connections may require multiple attempts for successful pairing
+  * Firmware updates may take longer than expected for large files
+
+
+
 
 # Firmware Version: 4.0.043
 
