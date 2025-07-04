@@ -30,11 +30,11 @@ Note:
 
 Feel free to contact us at in.support@brightblu.com for any queries or support.
 
-## Current Production release: 4.0.046
+## Current Production release: 4.0.054
 
-# Firmware Version: 4.0.046
+# Firmware Version: 4.0.054
 
-Release Date: 25/4/2025
+Release Date: 25/5/2025
 
 Release Notes:
 
