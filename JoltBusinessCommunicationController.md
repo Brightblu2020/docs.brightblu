@@ -30,7 +30,16 @@ Note:
 
 Feel free to contact us at in.support@brightblu.com for any queries or support.
 
-## Current Production release: 4.0.054
+## Current Production release: 4.0.055
+
+# Firmware Version: 4.0.055
+
+Release Date: 4/08/2025
+
+- Fixed bug of 0 transaction ID being sent.
+- Fixed bug of idTag being sent as "NoIdTag".
+- Minor improvements in code size and removed few redundant functions.
+
 
 # Firmware Version: 4.0.054
 
