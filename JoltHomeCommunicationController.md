@@ -30,7 +30,13 @@ It is highly recommended to update the firmware directly from Jolt Control.
 
 Feel free to contact us at in.support@brightblu.com for any queries or support.
 
-Current Production release: 1.0.60
+Current Production release: 1.0.64
+
+* Firmware Version: 1.0.64
+
+    Release Notes:
+    - Fixed minor bugs
+    - Increased transaction storage count to 50
 
 * Firmware Version: 1.0.60
 

@@ -35,7 +35,7 @@ Feel free to contact us at in.support@brightblu.com for any queries or support r
 
 ## Single Phase
 
-# Current Production release: 1.3.1
+# Current Production release: 1.4
 
 ## Firmware Version: 1.3.1
 Release Date: 22/07/2024
