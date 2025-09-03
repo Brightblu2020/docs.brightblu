@@ -35,11 +35,32 @@ Feel free to contact us at in.support@brightblu.com for any queries or support r
 
 ## Single Phase
 
-# Current Production release: 1.4
+# Current Production release: 1.4.0
+
+## Firmware Version: 1.4.0
+
+Release Date: 08/04/2025
+
+Release Notes:
+
+- Reset PWM signal of control pilot if there is no response from the vehicle in RTU (Ready to Use) state.
+
+
+## Firmware Version: 1.3.2
+
+Release Date: 22/10/2024
+
+Release Notes:
+
+- Send request for auto restart of charging session after under voltage or over voltage error.
+Correction of control pilot PWM frequency.
+
 
 ## Firmware Version: 1.3.1
+
 Release Date: 22/07/2024
 
 Release Notes:
--        Control pilot range updated to avoid any unnecessary state changes.
--        Voltage range of detection of -12V system edited.
+
+- Control pilot range updated to avoid any unnecessary state changes.
+Voltage range of detection of -12V system edited.
